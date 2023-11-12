@@ -1,0 +1,10 @@
+C:\Users\Andreé\Desktop\Sistemas Distribuidos\Ejercicios\SOAP\Client\bin\Debug\Client.exe.config
+C:\Users\Andreé\Desktop\Sistemas Distribuidos\Ejercicios\SOAP\Client\bin\Debug\Client.exe
+C:\Users\Andreé\Desktop\Sistemas Distribuidos\Ejercicios\SOAP\Client\bin\Debug\Client.pdb
+C:\Users\Andreé\Desktop\Sistemas Distribuidos\Ejercicios\SOAP\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\Andreé\Desktop\Sistemas Distribuidos\Ejercicios\SOAP\Client\obj\Debug\Client.Form1.resources
+C:\Users\Andreé\Desktop\Sistemas Distribuidos\Ejercicios\SOAP\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Andreé\Desktop\Sistemas Distribuidos\Ejercicios\SOAP\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Andreé\Desktop\Sistemas Distribuidos\Ejercicios\SOAP\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Andreé\Desktop\Sistemas Distribuidos\Ejercicios\SOAP\Client\obj\Debug\Client.exe
+C:\Users\Andreé\Desktop\Sistemas Distribuidos\Ejercicios\SOAP\Client\obj\Debug\Client.pdb

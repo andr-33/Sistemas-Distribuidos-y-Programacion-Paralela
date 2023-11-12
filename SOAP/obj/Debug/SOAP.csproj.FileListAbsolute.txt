@@ -1,0 +1,7 @@
+C:\Users\Andreé\Desktop\Sistemas Distribuidos\Ejercicios\SOAP\SOAP\bin\Debug\SOAP.dll.config
+C:\Users\Andreé\Desktop\Sistemas Distribuidos\Ejercicios\SOAP\SOAP\bin\Debug\SOAP.dll
+C:\Users\Andreé\Desktop\Sistemas Distribuidos\Ejercicios\SOAP\SOAP\bin\Debug\SOAP.pdb
+C:\Users\Andreé\Desktop\Sistemas Distribuidos\Ejercicios\SOAP\SOAP\obj\Debug\SOAP.csproj.AssemblyReference.cache
+C:\Users\Andreé\Desktop\Sistemas Distribuidos\Ejercicios\SOAP\SOAP\obj\Debug\SOAP.csproj.CoreCompileInputs.cache
+C:\Users\Andreé\Desktop\Sistemas Distribuidos\Ejercicios\SOAP\SOAP\obj\Debug\SOAP.dll
+C:\Users\Andreé\Desktop\Sistemas Distribuidos\Ejercicios\SOAP\SOAP\obj\Debug\SOAP.pdb

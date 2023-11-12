@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="151016ce-f33b-435f-974a-9083f72aabc8" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8733/Design_Time_Addresses/SOAP/ExchangeCurrency/mex" Protocol="mex" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="service.wsdl" MetadataType="Wsdl" ID="9c6d56a8-c349-4c71-a3f2-82b7ddb1b861" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/SOAP/ExchangeCurrency/mex" />
+    <MetadataFile FileName="service.xsd" MetadataType="Schema" ID="8f96f769-2653-4571-965d-0100ac389e40" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/SOAP/ExchangeCurrency/mex" />
+    <MetadataFile FileName="service1.xsd" MetadataType="Schema" ID="9e9b9937-a152-4284-b04d-36f5520870bb" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/SOAP/ExchangeCurrency/mex" />
+    <MetadataFile FileName="SOAP.xsd" MetadataType="Schema" ID="c769ab2c-a2b9-41ad-ad51-047bf51930c3" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/SOAP/ExchangeCurrency/mex" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
