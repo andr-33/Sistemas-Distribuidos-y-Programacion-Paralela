@@ -1,0 +1,6 @@
+C:\Users\Andreé\Desktop\Sistemas Distribuidos\Ejercicios\Socket\Utiles\bin\Debug\Utiles.dll
+C:\Users\Andreé\Desktop\Sistemas Distribuidos\Ejercicios\Socket\Utiles\bin\Debug\Utiles.pdb
+C:\Users\Andreé\Desktop\Sistemas Distribuidos\Ejercicios\Socket\Utiles\obj\Debug\Utiles.csproj.AssemblyReference.cache
+C:\Users\Andreé\Desktop\Sistemas Distribuidos\Ejercicios\Socket\Utiles\obj\Debug\Utiles.csproj.CoreCompileInputs.cache
+C:\Users\Andreé\Desktop\Sistemas Distribuidos\Ejercicios\Socket\Utiles\obj\Debug\Utiles.dll
+C:\Users\Andreé\Desktop\Sistemas Distribuidos\Ejercicios\Socket\Utiles\obj\Debug\Utiles.pdb

@@ -1,0 +1,10 @@
+C:\Users\Andreé\Desktop\Sistemas Distribuidos\Ejercicios\Socket\Server\bin\Debug\Server.exe.config
+C:\Users\Andreé\Desktop\Sistemas Distribuidos\Ejercicios\Socket\Server\bin\Debug\Server.exe
+C:\Users\Andreé\Desktop\Sistemas Distribuidos\Ejercicios\Socket\Server\bin\Debug\Server.pdb
+C:\Users\Andreé\Desktop\Sistemas Distribuidos\Ejercicios\Socket\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\Andreé\Desktop\Sistemas Distribuidos\Ejercicios\Socket\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Andreé\Desktop\Sistemas Distribuidos\Ejercicios\Socket\Server\obj\Debug\Server.exe
+C:\Users\Andreé\Desktop\Sistemas Distribuidos\Ejercicios\Socket\Server\obj\Debug\Server.pdb
+C:\Users\Andreé\Desktop\Sistemas Distribuidos\Ejercicios\Socket\Server\bin\Debug\Utiles.dll
+C:\Users\Andreé\Desktop\Sistemas Distribuidos\Ejercicios\Socket\Server\bin\Debug\Utiles.pdb
+C:\Users\Andreé\Desktop\Sistemas Distribuidos\Ejercicios\Socket\Server\obj\Debug\Server.csproj.CopyComplete
